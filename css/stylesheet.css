@@ -1,0 +1,25 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#f1ecec;
+}
+
+.main-section {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.main- > article {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30em;
+    flex-grow: 1;
+    margin: 1em;
+    padding: 1em;
+    background-color: #c72c41;
+    border: 1px #1E2328 solid;
+}
+
+
+
